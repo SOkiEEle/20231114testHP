@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+h1 {
+  background: #c2edff;
+  padding: 0.5em;
+}
+h2 {
+  border-left: solid 7px #010079;
+  color: #010079;
+  padding-left: 5px;
+}
+h3 {
+    border-left: solid 4px #01ffff;
+    color: #01ffff;
+    padding-left: 5px;
+}
